@@ -1,4 +1,4 @@
-# PRODIGY_ML_02
+# Cat-Dog Image Classifier
 
 Cat-Dog Image Classifier
 A deep learning project to identify and differentiate cats vs dogs from images. Trained on 30k+ real images from Kaggle datasets, achieving 92% validation accuracy with CNN. Supports image uploads, webcam detection, and easy deployment.
